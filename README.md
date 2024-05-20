@@ -3,8 +3,10 @@ Overview</h1>**
 
 The Task Management System API provides endpoints to manage tasks, allowing you to create, retrieve, update, and delete tasks. The API also includes authentication using JSON Web Tokens (JWT) to secure the endpoints.
 
-**step - 1**
-Project Initialization: npm init -y
+step - 1
+Clone the repository: git clone https://github.com/ChocoUnicorn/TMS.git
+
+Change the directory into your repo folder: cd TMS
 
 step - 2
 Install Express: npm install
